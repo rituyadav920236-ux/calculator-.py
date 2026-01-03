@@ -9,4 +9,4 @@ Numbers ko "Multiply (*)" aur "Divide (/)" karna.
 ## Kasie Chalayein ?
 Is repository ko download karein.
 Apne computer mein Python install karein.
-Terminl mein 'python calculator.py' likh kar run karein.
+Terminal mein 'python calculator.py' likh kar run karein.
